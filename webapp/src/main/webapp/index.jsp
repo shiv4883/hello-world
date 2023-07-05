@@ -2,9 +2,17 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<p>The HTML address element defines contact information (author/owner) of a document or article.</p>
 
-<p>My first paragraph.</p>
+<address>
+Written by John Doe.<br> 
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland<br>
+USA
+</address>
 
 </body>
 </html>
+
+
